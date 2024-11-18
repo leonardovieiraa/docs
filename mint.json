@@ -45,11 +45,9 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Bem-vindo",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
