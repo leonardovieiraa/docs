@@ -25,6 +25,12 @@
     "name": "Dashboard",
     "url": "https://app.lothus.shop"
   },
+  "tabs": [
+    {
+      "name": "Minecraft",
+      "url": "minecraft"
+    }
+  ],
   "anchors": [
     {
       "name": "Documentation",
