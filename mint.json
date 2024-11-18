@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "LothusShop",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://lothushop.nyc3.cdn.digitaloceanspaces.com/lothus/2%20-%20Sem%20fundo.png",
+    "light": "https://lothushop.nyc3.cdn.digitaloceanspaces.com/lothus/1%20-%20Sem%20Fundo.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
