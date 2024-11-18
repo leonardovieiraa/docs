@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Nosso Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/lothus"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Nosso YouTube",
+      "icon": "youtube",
       "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
