@@ -48,13 +48,12 @@
       "group": "Bem-vindo",
       "pages": [
         "introduction"
-        "pagamentos"
       ]
     },
     {
       "group": "Geral",
       "pages": [
-        "essentials/markdown",
+        "pagamentos",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
